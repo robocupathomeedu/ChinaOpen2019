@@ -5,6 +5,6 @@
 地点：浙江省绍兴市柯桥区中国轻纺城国际会展中心
 
 ### @Home Education 教育家庭组
-比赛规则：2019@HomeEDU比赛规则  
-项目赛程：2019@HomeEDU项目赛程
+比赛规则：https://github.com/robocupathomeedu/ChinaOpen2019/raw/master/2019%40HomeEDU%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99.pdf  
+项目赛程：https://github.com/robocupathomeedu/ChinaOpen2019/raw/master/2019%40HomeEDU%E9%A1%B9%E7%9B%AE%E8%B5%9B%E7%A8%8B.pdf
 
