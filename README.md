@@ -15,7 +15,8 @@
 * 4/21 决赛  
 
 ### Speech and Person Recognition
-* [I'm an inline-style link](https://www.google.com)
+* [List of predefined questions](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Questions.pdf)
+* [Questions generator for SPR test](https://github.com/RoboCupAtHome/Montreal2018/tree/master/Generators)
 
 ### Help-Me-Carry
 * 
