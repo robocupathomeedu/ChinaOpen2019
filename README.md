@@ -8,13 +8,13 @@
 * [比赛规则](https://github.com/robocupathomeedu/ChinaOpen2019/blob/master/2019%40HomeEDU%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99.pdf)  
 * [项目赛程](https://github.com/robocupathomeedu/ChinaOpen2019/blob/master/2019%40HomeEDU%E9%A1%B9%E7%9B%AE%E8%B5%9B%E7%A8%8B.pdf)
 
-### Schedules
+### Schedules 赛程
 * 4/18 培训  
 * 4/19 Speech and Person Recognition  
 * 4/20 Help-Me-Carry  
 * 4/21 决赛  
 
-### Teams
+### Teams 队伍
 * T1: ?  
 * T2: ?  
 * T3: ?  
@@ -27,5 +27,5 @@
 ### Help-Me-Carry
 * 
 
-### Results
+### Results 成绩
 * 
