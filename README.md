@@ -14,6 +14,12 @@
 * 4/20 Help-Me-Carry  
 * 4/21 决赛  
 
+### Teams
+* T1: ?  
+* T2: ?  
+* T3: ?  
+* T4: ?  
+
 ### Speech and Person Recognition
 * [List of predefined questions](https://github.com/RoboCupAtHome/Montreal2018/blob/master/Files/Questions.pdf)
 * [Questions generator for SPR test](https://github.com/RoboCupAtHome/Montreal2018/tree/master/Generators)
